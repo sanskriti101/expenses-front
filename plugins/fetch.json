@@ -16,5 +16,13 @@
             "type": "registry",
             "id": "org.apache.cordova.console"
         }
+    },
+    "cordova-plugin-camera": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-camera"
+        },
+        "is_top_level": true,
+        "variables": {}
     }
 }
