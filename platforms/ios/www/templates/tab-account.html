@@ -1,4 +1,5 @@
 <ion-view view-title="Account">
+  <!--
   <ion-content>
     <ion-list>
     <ion-toggle  ng-model="settings.enableFriends">
@@ -6,4 +7,11 @@
     </ion-toggle>
     </ion-list>
   </ion-content>
+  -->
+
+  <ion-content ng-controller="AccountCtrl1">
+    <img ng-show="imgURI !== undefined" ng-src="{{imgURI}}">
+    <img ng-show="imgURI === undefined" ng-src="http://placehold.it/300x300">
+    <button class="button" ng-click="takePicture()">Take Picture</button>
+</ion-content>
 </ion-view>
