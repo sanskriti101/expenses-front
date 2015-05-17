@@ -47,6 +47,16 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services', '
       }
     }
   })
+  
+  .state('tab.dash-details', {
+    url: '/dash/:expenseId?image&vendor',
+    views: {
+      'tab-dash': {
+        templateUrl: 'templates/dash-detail.html',
+        controller: 'DashDetailCtrl'
+      }
+    }
+  })
 
   .state('tab.chats', {
       url: '/chats',
