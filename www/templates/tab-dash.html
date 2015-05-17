@@ -8,7 +8,7 @@
         <i class="ion-ios-checkmark-outline my-bills-left-icon" style="color:green" ng-if="expense.approved == 'approved' "></i>
         <i class="ion-ios-close-outline my-bills-left-icon" style="color:red" ng-if="expense.approved == 'notApproved' "></i>
         <h2>{{expense.vendorName}}</h2>
-        <p>{{expense.amount}}</p>
+        <p>${{expense.amount}}</p>
         <i class="icon ion-chevron-right icon-accessory"></i>
 
         <ion-option-button class="button-assertive" ng-click="remove(chat)">
