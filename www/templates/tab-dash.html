@@ -1,5 +1,9 @@
 <ion-view view-title="Dashboard">
+<div class="bar bar-header bar-stable">
+  <h1 class="title">Bill Zen</h1>
+</div>
   <ion-content class="padding">
+
           <ion-item class="item-remove-animate item-avatar item-icon-right" ng-repeat="expense in myExpenses" type="item-text-wrap" ng-click="showExpenseImage(expense.id, expense.image, expense.vendorName)">
         <i class="ion-ios-minus-outline my-bills-left-icon" ng-if="expense.approved == 'pending' " ></i>
         <i class="ion-ios-checkmark-outline my-bills-left-icon" style="color:green" ng-if="expense.approved == 'approved' "></i>
