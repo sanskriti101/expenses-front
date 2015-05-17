@@ -1,7 +1,7 @@
 <ion-view view-title="Account">
  
   <div class="bar bar-header bar-stable">
-  <h1 class="title">Bill Zen</h1>
+  <h1 class="title">ZenBills</h1>
 </div>
   <!--
   <ion-content>
@@ -13,21 +13,52 @@
   </ion-content>
   -->
 
-
-<ion-content ng-controller="AccountCtrl">
-
-  
-
+<div ng-show="!verificationStep" ng-init="verificationStep = false">
+    <ion-content style="padding-top:45px" class="text-center" >
     <img ng-show="imgURI !== undefined" ng-src="{{imgURI}}">
-    <img ng-show="imgURI === undefined" ng-src="http://placehold.it/600x800">
-    
-</ion-content>
-<ion-footer-bar class="bar-stable">
-<div class="button-bar">
-  <button class="button button-large button-clear button-positive text-center" ng-click="takePicture()">Capture
-</button>
-</div>
-  
-</ion-footer-bar>
+    <img ng-show="imgURI === undefined" ng-src="http://placehold.it/500x500">
 
+    </ion-content>
+    <ion-footer-bar class="bar-stable" ng-show="!captureClicked">
+    <div class="button-bar">
+    <button class="button button-large button-clear button-positive text-center" ng-click="takePicture()">Capture
+    </button>
+    </div>
+    </ion-footer-bar>
+     <ion-footer-bar class="bar-stable" ng-show="captureClicked">
+    <div class="button-bar">
+    <button class="button button-large button-clear button-positive text-center" ng-click="verificationStep = !verificationStep">Submit
+    </button>
+    </div>
+    </ion-footer-bar>
+</div>
+
+
+    
+ <ion-content style="padding-top:45px" class="text-center" ng-show="verificationStep">
+        <img ng-show="imgURI === undefined" ng-src="http://www.makereceipts.com/receipt_preview.jpg" style="height:200px, width: 200px">
+        <div>
+            <label class="item item-input">
+                <span class="input-label"><b>Vendor Name</b></span>
+                <input type="text" value="George's Restaurant">
+            </label>
+            <label class="item item-input item-select">
+                <div class="input-label">
+                    <b>Category</b>
+                </div>
+                <select>
+                    <option>Food</option>
+                    <option>Accomodation</option>
+                    <option selected>Travel</option>
+                </select>
+            </label>
+            <label class="item item-input">
+                <span class="input-label"><b>Amount</b></span>
+                <input type="text" value="$169.80">
+            </label>
+        </div>
+      <br />
+       <br />
+        <button class="button" ui-sref="tab.dash">Verify</button>
+    </ion-content>
 </ion-view>

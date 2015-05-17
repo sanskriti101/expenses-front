@@ -84,6 +84,7 @@ angular.module('starter.controllers', [])
 .controller('AccountCtrl', function($scope, $cordovaCamera) {
  
     $scope.takePicture = function() {
+      $scope.captureClicked = !$scope.captureClicked;
         console.log("hi");
         var options = { 
             quality : 75, 
