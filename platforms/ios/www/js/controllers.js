@@ -26,6 +26,34 @@ angular.module('starter.controllers', [])
     .success(function(response) {
       $scope.expensesToBeApproved = response;
   });
+    
+    $scope.onSwipeLeft = function(id) {
+        $http.get("http://52.4.68.230:1337/expense/update/" + id + "?approved=approved")
+     .success(function(response) {
+            var refinedApprovedList = [];
+            angular.forEach($scope.expensesToBeApproved, function(item) {
+                if(item.id != id) {
+                    refinedApprovedList.push(item);
+                }
+            });
+            $scope.expensesToBeApproved = refinedApprovedList;
+        });
+    }
+    
+    $scope.onSwipeRight = function(id) {
+       $http.get("http://52.4.68.230:1337/expense/update/" + id + "?approved=notApproved")
+     .success(function(response) {
+            var refinedApprovedList = [];
+            angular.forEach($scope.expensesToBeApproved, function(item) {
+                if(item.id != id) {
+                    refinedApprovedList.push(item);
+                }
+            });
+            $scope.expensesToBeApproved = refinedApprovedList;
+        });        
+    }
+
+    
     $scope.showExpenseImage = function(id, image, vendor) {
     $state.go('tab.chat-detail', {expenseId: id, image: image, vendor: vendor})
    }
@@ -44,6 +72,7 @@ angular.module('starter.controllers', [])
         vendorName: vendorNameData
     }]
     console.log($scope.myExpenses);
+    
 })
 
 .controller('AccountCtrl1', function($scope) {
@@ -55,6 +84,7 @@ angular.module('starter.controllers', [])
 .controller('AccountCtrl', function($scope, $cordovaCamera) {
  
     $scope.takePicture = function() {
+        console.log("hi");
         var options = { 
             quality : 75, 
             destinationType : Camera.DestinationType.DATA_URL, 
@@ -62,7 +92,7 @@ angular.module('starter.controllers', [])
             allowEdit : true,
             encodingType: Camera.EncodingType.JPEG,
             targetWidth: 600,
-            targetHeight: 600,
+            targetHeight: 800,
             //picturefill();
             popoverOptions: CameraPopoverOptions,
             saveToPhotoAlbum: false
