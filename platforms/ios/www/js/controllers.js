@@ -1,12 +1,34 @@
 angular.module('starter.controllers', [])
 
-.controller('DashCtrl', function($scope) {})
+.controller('DashCtrl', function($scope, $http, $state) {    
+  $http.get("http://52.4.68.230:1337/expense/find")
+    .success(function(response) {
+      $scope.myExpenses = response;
+  });
+    
+   $scope.showExpenseImage = function(id, image, vendor) {
+    $state.go('tab.dash-detail', {expenseId: id, image: image, vendor: vendor})
+   }
+})
 
-.controller('ChatsCtrl', function($scope, Chats) {
-  $scope.chats = Chats.all();
-  $scope.remove = function(chat) {
-    Chats.remove(chat);
-  }
+.controller('DashDetailCtrl', function($scope, $stateParams) {
+    var vendorNameData = $stateParams.vendor,
+        imageData = $stateParams.image;
+    $scope.myExpenses = [{
+        image: imageData,
+        vendorName: vendorNameData
+    }]
+    console.log($scope.myExpenses);
+})
+
+.controller('ChatsCtrl', function($scope, $http, $state) {
+    $http.get("http://52.4.68.230:1337/expense/find?where={%22approved%22:%22pending%22}")
+    .success(function(response) {
+      $scope.expensesToBeApproved = response;
+  });
+    $scope.showExpenseImage = function(id, image, vendor) {
+    $state.go('tab.chat-detail', {expenseId: id, image: image, vendor: vendor})
+   }
   /**
   $scope.approve = function(chat) {
   	Chats.approve(chat);
@@ -15,7 +37,13 @@ angular.module('starter.controllers', [])
 })
 
 .controller('ChatDetailCtrl', function($scope, $stateParams, Chats) {
-  $scope.chat = Chats.get($stateParams.chatId);
+  var vendorNameData = $stateParams.vendor,
+        imageData = $stateParams.image;
+    $scope.myExpenses = [{
+        image: imageData,
+        vendorName: vendorNameData
+    }]
+    console.log($scope.myExpenses);
 })
 
 .controller('AccountCtrl1', function($scope) {
@@ -33,8 +61,9 @@ angular.module('starter.controllers', [])
             sourceType : Camera.PictureSourceType.CAMERA, 
             allowEdit : true,
             encodingType: Camera.EncodingType.JPEG,
-            targetWidth: 300,
-            targetHeight: 300,
+            targetWidth: 600,
+            targetHeight: 600,
+            //picturefill();
             popoverOptions: CameraPopoverOptions,
             saveToPhotoAlbum: false
         };

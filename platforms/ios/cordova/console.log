@@ -214,3 +214,330 @@
 2015-05-17 00:57:05.231 myApp[25358:1042023] [CDVTimer][TotalPluginStartup] 0.284016ms
 2015-05-17 00:57:05.346 myApp[25358:1042023] Resetting plugins due to page load.
 2015-05-17 00:57:05.614 myApp[25358:1042023] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/D65D1854-ACA3-473C-84F4-4F5F51F23AE7/myApp.app/www/index.html#/tab/account
+2015-05-17 01:59:21.867 myApp[26589:1067273] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 01:59:21.869 myApp[26589:1067273] Multi-tasking -> Device: YES, App: YES
+2015-05-17 01:59:21.870 myApp[26589:1067273] Unlimited access to network resources
+2015-05-17 01:59:22.094 myApp[26589:1067273] [CDVTimer][keyboard] 0.057995ms
+2015-05-17 01:59:22.094 myApp[26589:1067273] [CDVTimer][TotalPluginStartup] 0.245988ms
+2015-05-17 01:59:22.180 myApp[26589:1067273] Resetting plugins due to page load.
+2015-05-17 01:59:22.389 myApp[26589:1067273] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/DE770CE5-B0B5-4EF9-9452-BB905B3FDE80/myApp.app/www/index.html#/tab/account
+2015-05-17 02:08:08.828 myApp[26799:1070445] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 02:08:08.830 myApp[26799:1070445] Multi-tasking -> Device: YES, App: YES
+2015-05-17 02:08:08.832 myApp[26799:1070445] Unlimited access to network resources
+2015-05-17 02:08:09.134 myApp[26799:1070445] [CDVTimer][keyboard] 0.068009ms
+2015-05-17 02:08:09.134 myApp[26799:1070445] [CDVTimer][TotalPluginStartup] 0.281036ms
+2015-05-17 02:08:09.258 myApp[26799:1070445] Resetting plugins due to page load.
+2015-05-17 02:08:09.528 myApp[26799:1070445] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/5E510D73-3821-4F02-8A10-6B6977383969/myApp.app/www/index.html#/tab/account
+2015-05-17 02:08:35.702 myApp[26991:1071105] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 02:08:35.703 myApp[26991:1071105] Multi-tasking -> Device: YES, App: YES
+2015-05-17 02:08:35.704 myApp[26991:1071105] Unlimited access to network resources
+2015-05-17 02:08:35.933 myApp[26991:1071105] [CDVTimer][keyboard] 0.109017ms
+2015-05-17 02:08:35.934 myApp[26991:1071105] [CDVTimer][TotalPluginStartup] 0.428975ms
+2015-05-17 02:08:36.078 myApp[26991:1071105] Resetting plugins due to page load.
+2015-05-17 02:08:36.330 myApp[26991:1071105] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/B7D40D65-9468-4CFA-A654-AD5F4690D295/myApp.app/www/index.html#/tab/account
+2015-05-17 02:08:57.431 myApp[27182:1071706] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 02:08:57.432 myApp[27182:1071706] Multi-tasking -> Device: YES, App: YES
+2015-05-17 02:08:57.433 myApp[27182:1071706] Unlimited access to network resources
+2015-05-17 02:08:57.694 myApp[27182:1071706] [CDVTimer][keyboard] 0.074029ms
+2015-05-17 02:08:57.695 myApp[27182:1071706] [CDVTimer][TotalPluginStartup] 0.294983ms
+2015-05-17 02:08:57.816 myApp[27182:1071706] Resetting plugins due to page load.
+2015-05-17 02:08:58.087 myApp[27182:1071706] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/E589328B-0299-4C57-96E5-D2D4A8F31082/myApp.app/www/index.html#/tab/account
+2015-05-17 02:11:51.578 myApp[27374:1072920] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 02:11:51.580 myApp[27374:1072920] Multi-tasking -> Device: YES, App: YES
+2015-05-17 02:11:51.581 myApp[27374:1072920] Unlimited access to network resources
+2015-05-17 02:11:51.796 myApp[27374:1072920] [CDVTimer][keyboard] 0.073016ms
+2015-05-17 02:11:51.796 myApp[27374:1072920] [CDVTimer][TotalPluginStartup] 0.280976ms
+2015-05-17 02:11:51.892 myApp[27374:1072920] Resetting plugins due to page load.
+2015-05-17 02:11:52.159 myApp[27374:1072920] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/B6F28994-0F8A-4C68-A419-FDC5BE1D151B/myApp.app/www/index.html#/tab/account
+2015-05-17 02:11:54.262 myApp[27374:1072932] Camera.getPicture: source type 1 not available.
+2015-05-17 02:11:56.180 myApp[27374:1072932] Camera.getPicture: source type 1 not available.
+2015-05-17 08:42:35.931 myApp[27886:1078852] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 08:42:35.933 myApp[27886:1078852] Multi-tasking -> Device: YES, App: YES
+2015-05-17 08:42:35.942 myApp[27886:1078852] Unlimited access to network resources
+2015-05-17 08:42:36.331 myApp[27886:1078852] [CDVTimer][keyboard] 0.079989ms
+2015-05-17 08:42:36.331 myApp[27886:1078852] [CDVTimer][TotalPluginStartup] 0.312030ms
+2015-05-17 08:42:36.587 myApp[27886:1078852] Resetting plugins due to page load.
+2015-05-17 08:42:36.875 myApp[27886:1078852] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/09B88C19-0B05-42C3-A748-868BB14C96B4/myApp.app/www/index.html#/tab/account
+2015-05-17 08:44:22.608 myApp[28364:1080117] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 08:44:22.609 myApp[28364:1080117] Multi-tasking -> Device: YES, App: YES
+2015-05-17 08:44:22.611 myApp[28364:1080117] Unlimited access to network resources
+2015-05-17 08:44:22.835 myApp[28364:1080117] [CDVTimer][keyboard] 0.063002ms
+2015-05-17 08:44:22.835 myApp[28364:1080117] [CDVTimer][TotalPluginStartup] 0.253022ms
+2015-05-17 08:44:22.916 myApp[28364:1080117] Resetting plugins due to page load.
+2015-05-17 08:44:23.129 myApp[28364:1080117] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/EDEA4891-692F-4606-9D61-DD47E3D71778/myApp.app/www/index.html#/tab/account
+2015-05-17 08:44:27.704 myApp[28364:1080117] [{"vendorName":"uber","approved":"notApproved","type":"travel","amount":"400","image":"http://www.makereceipts.com/receipt_preview.jpg","createdAt":"2015-05-16T23:59:40.174Z","updatedAt":"2015-05-17T01:02:56.586Z","id":"5557d9ec529ab4de7925b5c7"},{"vendorName":"holiday inn","approved":"approved","type":"accomodation","amount":"4000","image":"http://linkingsoul.com/manage-receipts/images/receipt1.jpg","createdAt":"2015-05-17T00:01:10.311Z","updatedAt":"2015-05-17T01:08:17.324Z","id":"5557da46529ab4de7925b5c8"},{"vendorName":"Starbucks","approved":"pending","type":"food","amount":"200","image":"http://www.makereceipts.com/receipt_preview.jpg","createdAt":"2015-05-17T01:08:59.830Z","updatedAt":"2015-05-17T01:08:59.830Z","id":"5557ea2bf2757bf35d3f642c"}]
+2015-05-17 08:48:40.114 myApp[28585:1081833] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 08:48:40.117 myApp[28585:1081833] Multi-tasking -> Device: YES, App: YES
+2015-05-17 08:48:40.119 myApp[28585:1081833] Unlimited access to network resources
+2015-05-17 08:48:40.435 myApp[28585:1081833] [CDVTimer][keyboard] 0.101030ms
+2015-05-17 08:48:40.436 myApp[28585:1081833] [CDVTimer][TotalPluginStartup] 0.404000ms
+2015-05-17 08:48:40.554 myApp[28585:1081833] Resetting plugins due to page load.
+2015-05-17 08:48:40.825 myApp[28585:1081833] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/04A95F48-C7C1-4C7A-85F1-67936B056A19/myApp.app/www/index.html#/tab/account
+2015-05-17 08:51:47.940 myApp[28779:1083314] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 08:51:47.948 myApp[28779:1083314] Multi-tasking -> Device: YES, App: YES
+2015-05-17 08:51:47.951 myApp[28779:1083314] Unlimited access to network resources
+2015-05-17 08:51:48.291 myApp[28779:1083314] [CDVTimer][keyboard] 0.078022ms
+2015-05-17 08:51:48.291 myApp[28779:1083314] [CDVTimer][TotalPluginStartup] 0.387967ms
+2015-05-17 08:51:48.406 myApp[28779:1083314] Resetting plugins due to page load.
+2015-05-17 08:51:48.659 myApp[28779:1083314] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/9A36BF7A-98A7-4F09-BFB2-EC5EC52DE867/myApp.app/www/index.html#/tab/account
+2015-05-17 09:01:43.473 myApp[28977:1086141] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 09:01:43.477 myApp[28977:1086141] Multi-tasking -> Device: YES, App: YES
+2015-05-17 09:01:43.480 myApp[28977:1086141] Unlimited access to network resources
+2015-05-17 09:01:43.811 myApp[28977:1086141] [CDVTimer][keyboard] 0.097990ms
+2015-05-17 09:01:43.811 myApp[28977:1086141] [CDVTimer][TotalPluginStartup] 0.392020ms
+2015-05-17 09:01:43.936 myApp[28977:1086141] Resetting plugins due to page load.
+2015-05-17 09:01:44.404 myApp[28977:1086141] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/50E60D85-EE88-4537-A6D4-27B537016B9F/myApp.app/www/index.html#/tab/account
+2015-05-17 09:06:56.412 myApp[29179:1088016] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 09:06:56.413 myApp[29179:1088016] Multi-tasking -> Device: YES, App: YES
+2015-05-17 09:06:56.415 myApp[29179:1088016] Unlimited access to network resources
+2015-05-17 09:06:56.701 myApp[29179:1088016] [CDVTimer][keyboard] 0.070989ms
+2015-05-17 09:06:56.701 myApp[29179:1088016] [CDVTimer][TotalPluginStartup] 0.286996ms
+2015-05-17 09:06:56.819 myApp[29179:1088016] Resetting plugins due to page load.
+2015-05-17 09:06:57.044 myApp[29179:1088016] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/CDEEE864-308F-43DE-B682-FFA81FBBDB28/myApp.app/www/index.html
+2015-05-17 09:07:19.221 myApp[29372:1088635] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 09:07:19.222 myApp[29372:1088635] Multi-tasking -> Device: YES, App: YES
+2015-05-17 09:07:19.224 myApp[29372:1088635] Unlimited access to network resources
+2015-05-17 09:07:19.571 myApp[29372:1088635] [CDVTimer][keyboard] 0.074029ms
+2015-05-17 09:07:19.571 myApp[29372:1088635] [CDVTimer][TotalPluginStartup] 0.294983ms
+2015-05-17 09:07:19.689 myApp[29372:1088635] Resetting plugins due to page load.
+2015-05-17 09:07:20.105 myApp[29372:1088635] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/EFA92EB8-4100-4351-B165-C942F1A49A77/myApp.app/www/index.html#/tab/account
+2015-05-17 09:28:34.508 myApp[29587:1093019] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 09:28:34.509 myApp[29587:1093019] Multi-tasking -> Device: YES, App: YES
+2015-05-17 09:28:34.511 myApp[29587:1093019] Unlimited access to network resources
+2015-05-17 09:28:34.827 myApp[29587:1093019] [CDVTimer][keyboard] 0.070989ms
+2015-05-17 09:28:34.828 myApp[29587:1093019] [CDVTimer][TotalPluginStartup] 0.274956ms
+2015-05-17 09:28:34.948 myApp[29587:1093019] Resetting plugins due to page load.
+2015-05-17 09:28:35.401 myApp[29587:1093019] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/07796DA2-85B4-414F-BFD3-3BF65C688839/myApp.app/www/index.html#/tab/account
+2015-05-17 09:30:28.415 myApp[29780:1093977] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 09:30:28.420 myApp[29780:1093977] Multi-tasking -> Device: YES, App: YES
+2015-05-17 09:30:28.422 myApp[29780:1093977] Unlimited access to network resources
+2015-05-17 09:30:28.738 myApp[29780:1093977] [CDVTimer][keyboard] 0.117958ms
+2015-05-17 09:30:28.738 myApp[29780:1093977] [CDVTimer][TotalPluginStartup] 0.434995ms
+2015-05-17 09:30:28.865 myApp[29780:1093977] Resetting plugins due to page load.
+2015-05-17 09:30:29.115 myApp[29780:1093977] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/4490A58B-80D8-4644-AE97-E7EA65DEEE47/myApp.app/www/index.html#/tab/account
+2015-05-17 09:50:02.140 myApp[30131:1098383] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 09:50:02.142 myApp[30131:1098383] Multi-tasking -> Device: YES, App: YES
+2015-05-17 09:50:02.144 myApp[30131:1098383] Unlimited access to network resources
+2015-05-17 09:50:02.471 myApp[30131:1098383] [CDVTimer][keyboard] 0.069022ms
+2015-05-17 09:50:02.471 myApp[30131:1098383] [CDVTimer][TotalPluginStartup] 0.290990ms
+2015-05-17 09:50:02.595 myApp[30131:1098383] Resetting plugins due to page load.
+2015-05-17 09:50:02.917 myApp[30131:1098383] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/21ABC4FF-3CB4-456A-B5C9-D56D52BC53DA/myApp.app/www/index.html#/tab/account
+2015-05-17 09:52:49.906 myApp[30324:1099617] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 09:52:49.907 myApp[30324:1099617] Multi-tasking -> Device: YES, App: YES
+2015-05-17 09:52:49.909 myApp[30324:1099617] Unlimited access to network resources
+2015-05-17 09:52:50.234 myApp[30324:1099617] [CDVTimer][keyboard] 0.084996ms
+2015-05-17 09:52:50.234 myApp[30324:1099617] [CDVTimer][TotalPluginStartup] 0.391006ms
+2015-05-17 09:52:50.373 myApp[30324:1099617] Resetting plugins due to page load.
+2015-05-17 09:52:50.710 myApp[30324:1099617] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/EFBC30C1-8CCC-4F75-B43B-794038288CBA/myApp.app/www/index.html#/tab/account
+2015-05-17 09:53:36.788 myApp[30515:1100283] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 09:53:36.790 myApp[30515:1100283] Multi-tasking -> Device: YES, App: YES
+2015-05-17 09:53:36.794 myApp[30515:1100283] Unlimited access to network resources
+2015-05-17 09:53:37.086 myApp[30515:1100283] [CDVTimer][keyboard] 0.106990ms
+2015-05-17 09:53:37.087 myApp[30515:1100283] [CDVTimer][TotalPluginStartup] 0.423014ms
+2015-05-17 09:53:37.223 myApp[30515:1100283] Resetting plugins due to page load.
+2015-05-17 09:53:37.596 myApp[30515:1100283] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/12135CAE-AF47-4EE8-9075-AC50FA9259C7/myApp.app/www/index.html#/tab/account
+2015-05-17 09:53:57.202 myApp[30706:1100899] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 09:53:57.207 myApp[30706:1100899] Multi-tasking -> Device: YES, App: YES
+2015-05-17 09:53:57.209 myApp[30706:1100899] Unlimited access to network resources
+2015-05-17 09:53:57.511 myApp[30706:1100899] [CDVTimer][keyboard] 0.077963ms
+2015-05-17 09:53:57.511 myApp[30706:1100899] [CDVTimer][TotalPluginStartup] 0.321984ms
+2015-05-17 09:53:57.631 myApp[30706:1100899] Resetting plugins due to page load.
+2015-05-17 09:53:57.905 myApp[30706:1100899] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/55701A7A-4638-4C36-B24B-1086586460E9/myApp.app/www/index.html#/tab/account
+2015-05-17 09:54:49.128 myApp[30901:1101671] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 09:54:49.136 myApp[30901:1101671] Multi-tasking -> Device: YES, App: YES
+2015-05-17 09:54:49.138 myApp[30901:1101671] Unlimited access to network resources
+2015-05-17 09:54:49.473 myApp[30901:1101671] [CDVTimer][keyboard] 0.100017ms
+2015-05-17 09:54:49.474 myApp[30901:1101671] [CDVTimer][TotalPluginStartup] 0.402987ms
+2015-05-17 09:54:49.592 myApp[30901:1101671] Resetting plugins due to page load.
+2015-05-17 09:54:49.936 myApp[30901:1101671] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/63DA57AF-066D-4550-BCDD-25561447DF31/myApp.app/www/index.html#/tab/account
+2015-05-17 09:55:55.313 myApp[31092:1102569] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 09:55:55.314 myApp[31092:1102569] Multi-tasking -> Device: YES, App: YES
+2015-05-17 09:55:55.315 myApp[31092:1102569] Unlimited access to network resources
+2015-05-17 09:55:55.661 myApp[31092:1102569] [CDVTimer][keyboard] 0.108004ms
+2015-05-17 09:55:55.661 myApp[31092:1102569] [CDVTimer][TotalPluginStartup] 0.429988ms
+2015-05-17 09:55:55.785 myApp[31092:1102569] Resetting plugins due to page load.
+2015-05-17 09:55:56.127 myApp[31092:1102569] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/3B9DD101-83A8-4E0B-9DCA-0F6F7F20ED55/myApp.app/www/index.html#/tab/account
+2015-05-17 09:59:20.449 myApp[31451:1104104] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 09:59:20.450 myApp[31451:1104104] Multi-tasking -> Device: YES, App: YES
+2015-05-17 09:59:20.452 myApp[31451:1104104] Unlimited access to network resources
+2015-05-17 09:59:20.694 myApp[31451:1104104] [CDVTimer][keyboard] 0.065029ms
+2015-05-17 09:59:20.694 myApp[31451:1104104] [CDVTimer][TotalPluginStartup] 0.266016ms
+2015-05-17 09:59:20.782 myApp[31451:1104104] Resetting plugins due to page load.
+2015-05-17 09:59:21.061 myApp[31451:1104104] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/CB75BFB3-44C2-42BB-9CE8-298B4ED8905B/myApp.app/www/index.html#/tab/account
+2015-05-17 10:03:08.822 myApp[31793:1105915] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 10:03:08.823 myApp[31793:1105915] Multi-tasking -> Device: YES, App: YES
+2015-05-17 10:03:08.826 myApp[31793:1105915] Unlimited access to network resources
+2015-05-17 10:03:09.052 myApp[31793:1105915] [CDVTimer][keyboard] 0.100017ms
+2015-05-17 10:03:09.052 myApp[31793:1105915] [CDVTimer][TotalPluginStartup] 0.404000ms
+2015-05-17 10:03:09.137 myApp[31793:1105915] Resetting plugins due to page load.
+2015-05-17 10:03:09.424 myApp[31793:1105915] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/2A68E27C-3469-49CA-8768-D12BE83AC84B/myApp.app/www/index.html#/tab/account
+2015-05-17 10:07:41.149 myApp[31991:1107967] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 10:07:41.159 myApp[31991:1107967] Multi-tasking -> Device: YES, App: YES
+2015-05-17 10:07:41.161 myApp[31991:1107967] Unlimited access to network resources
+2015-05-17 10:07:41.520 myApp[31991:1107967] [CDVTimer][keyboard] 0.115991ms
+2015-05-17 10:07:41.521 myApp[31991:1107967] [CDVTimer][TotalPluginStartup] 0.324011ms
+2015-05-17 10:07:41.642 myApp[31991:1107967] Resetting plugins due to page load.
+2015-05-17 10:07:41.981 myApp[31991:1107967] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/9442638E-EA15-428A-BFDB-C45F03DABC97/myApp.app/www/index.html#/tab/account
+2015-05-17 10:09:06.641 myApp[32185:1108985] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 10:09:06.642 myApp[32185:1108985] Multi-tasking -> Device: YES, App: YES
+2015-05-17 10:09:06.644 myApp[32185:1108985] Unlimited access to network resources
+2015-05-17 10:09:06.980 myApp[32185:1108985] [CDVTimer][keyboard] 0.075042ms
+2015-05-17 10:09:06.980 myApp[32185:1108985] [CDVTimer][TotalPluginStartup] 0.293016ms
+2015-05-17 10:09:07.093 myApp[32185:1108985] Resetting plugins due to page load.
+2015-05-17 10:09:07.364 myApp[32185:1108985] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/0CE4179C-5C81-437E-A052-50967AFE8AD7/myApp.app/www/index.html#/tab/account
+2015-05-17 10:11:57.709 myApp[32379:1110132] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 10:11:57.710 myApp[32379:1110132] Multi-tasking -> Device: YES, App: YES
+2015-05-17 10:11:57.712 myApp[32379:1110132] Unlimited access to network resources
+2015-05-17 10:11:58.078 myApp[32379:1110132] [CDVTimer][keyboard] 0.099003ms
+2015-05-17 10:11:58.079 myApp[32379:1110132] [CDVTimer][TotalPluginStartup] 0.397980ms
+2015-05-17 10:11:58.194 myApp[32379:1110132] Resetting plugins due to page load.
+2015-05-17 10:11:58.545 myApp[32379:1110132] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/290A522C-F743-4B8C-A314-85C1286B2B3D/myApp.app/www/index.html#/tab/account
+2015-05-17 10:13:18.967 myApp[32572:1110989] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 10:13:18.968 myApp[32572:1110989] Multi-tasking -> Device: YES, App: YES
+2015-05-17 10:13:18.970 myApp[32572:1110989] Unlimited access to network resources
+2015-05-17 10:13:19.306 myApp[32572:1110989] [CDVTimer][keyboard] 0.096023ms
+2015-05-17 10:13:19.307 myApp[32572:1110989] [CDVTimer][TotalPluginStartup] 0.337005ms
+2015-05-17 10:13:19.431 myApp[32572:1110989] Resetting plugins due to page load.
+2015-05-17 10:13:19.784 myApp[32572:1110989] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/F884C4B5-8A54-4A85-84F9-35D4AE13A1FA/myApp.app/www/index.html#/tab/account
+2015-05-17 10:14:13.926 myApp[32765:1111765] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 10:14:13.928 myApp[32765:1111765] Multi-tasking -> Device: YES, App: YES
+2015-05-17 10:14:13.930 myApp[32765:1111765] Unlimited access to network resources
+2015-05-17 10:14:14.238 myApp[32765:1111765] [CDVTimer][keyboard] 0.100017ms
+2015-05-17 10:14:14.238 myApp[32765:1111765] [CDVTimer][TotalPluginStartup] 0.398993ms
+2015-05-17 10:14:14.362 myApp[32765:1111765] Resetting plugins due to page load.
+2015-05-17 10:14:14.711 myApp[32765:1111765] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/D4205026-126D-41CF-A042-DAF5A83C2C7B/myApp.app/www/index.html#/tab/account
+2015-05-17 10:15:31.095 myApp[32958:1112721] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 10:15:31.096 myApp[32958:1112721] Multi-tasking -> Device: YES, App: YES
+2015-05-17 10:15:31.098 myApp[32958:1112721] Unlimited access to network resources
+2015-05-17 10:15:31.432 myApp[32958:1112721] [CDVTimer][keyboard] 0.069022ms
+2015-05-17 10:15:31.432 myApp[32958:1112721] [CDVTimer][TotalPluginStartup] 0.279009ms
+2015-05-17 10:15:31.584 myApp[32958:1112721] Resetting plugins due to page load.
+2015-05-17 10:15:31.940 myApp[32958:1112721] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/80F73140-F198-497A-A15F-0B2FE74D804D/myApp.app/www/index.html#/tab/account
+2015-05-17 10:18:04.455 myApp[33153:1113855] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 10:18:04.456 myApp[33153:1113855] Multi-tasking -> Device: YES, App: YES
+2015-05-17 10:18:04.459 myApp[33153:1113855] Unlimited access to network resources
+2015-05-17 10:18:04.820 myApp[33153:1113855] [CDVTimer][keyboard] 0.073969ms
+2015-05-17 10:18:04.820 myApp[33153:1113855] [CDVTimer][TotalPluginStartup] 0.317991ms
+2015-05-17 10:18:04.942 myApp[33153:1113855] Resetting plugins due to page load.
+2015-05-17 10:18:05.222 myApp[33153:1113855] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/702C25A1-DF05-4484-9C17-32B4865E1BB2/myApp.app/www/index.html#/tab/account
+2015-05-17 10:18:33.271 myApp[33346:1114506] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 10:18:33.272 myApp[33346:1114506] Multi-tasking -> Device: YES, App: YES
+2015-05-17 10:18:33.275 myApp[33346:1114506] Unlimited access to network resources
+2015-05-17 10:18:33.629 myApp[33346:1114506] [CDVTimer][keyboard] 0.096023ms
+2015-05-17 10:18:33.629 myApp[33346:1114506] [CDVTimer][TotalPluginStartup] 0.386000ms
+2015-05-17 10:18:33.768 myApp[33346:1114506] Resetting plugins due to page load.
+2015-05-17 10:18:34.191 myApp[33346:1114506] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/93AA46AC-9E18-41D3-80CB-11BD19E529F8/myApp.app/www/index.html#/tab/account
+2015-05-17 10:19:13.280 myApp[33541:1115315] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 10:19:13.282 myApp[33541:1115315] Multi-tasking -> Device: YES, App: YES
+2015-05-17 10:19:13.284 myApp[33541:1115315] Unlimited access to network resources
+2015-05-17 10:19:13.645 myApp[33541:1115315] [CDVTimer][keyboard] 0.102997ms
+2015-05-17 10:19:13.645 myApp[33541:1115315] [CDVTimer][TotalPluginStartup] 0.422001ms
+2015-05-17 10:19:13.767 myApp[33541:1115315] Resetting plugins due to page load.
+2015-05-17 10:19:14.112 myApp[33541:1115315] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/0343CDC8-4361-4030-A89E-5187FE52B884/myApp.app/www/index.html#/tab/account
+2015-05-17 10:19:36.230 myApp[33734:1115948] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 10:19:36.232 myApp[33734:1115948] Multi-tasking -> Device: YES, App: YES
+2015-05-17 10:19:36.235 myApp[33734:1115948] Unlimited access to network resources
+2015-05-17 10:19:36.570 myApp[33734:1115948] [CDVTimer][keyboard] 0.074029ms
+2015-05-17 10:19:36.571 myApp[33734:1115948] [CDVTimer][TotalPluginStartup] 0.287950ms
+2015-05-17 10:19:36.691 myApp[33734:1115948] Resetting plugins due to page load.
+2015-05-17 10:19:36.958 myApp[33734:1115948] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/5B13D565-1AAD-4C01-A820-BFC66E335CFF/myApp.app/www/index.html#/tab/account
+2015-05-17 10:20:12.817 myApp[33928:1116621] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 10:20:12.819 myApp[33928:1116621] Multi-tasking -> Device: YES, App: YES
+2015-05-17 10:20:12.821 myApp[33928:1116621] Unlimited access to network resources
+2015-05-17 10:20:13.136 myApp[33928:1116621] [CDVTimer][keyboard] 0.069976ms
+2015-05-17 10:20:13.136 myApp[33928:1116621] [CDVTimer][TotalPluginStartup] 0.272989ms
+2015-05-17 10:20:13.245 myApp[33928:1116621] Resetting plugins due to page load.
+2015-05-17 10:20:13.581 myApp[33928:1116621] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/6DDDBBC6-D98D-44FE-B095-6C6518377925/myApp.app/www/index.html#/tab/account
+2015-05-17 10:21:08.048 myApp[34122:1117317] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 10:21:08.053 myApp[34122:1117317] Multi-tasking -> Device: YES, App: YES
+2015-05-17 10:21:08.055 myApp[34122:1117317] Unlimited access to network resources
+2015-05-17 10:21:08.387 myApp[34122:1117317] [CDVTimer][keyboard] 0.075996ms
+2015-05-17 10:21:08.387 myApp[34122:1117317] [CDVTimer][TotalPluginStartup] 0.302970ms
+2015-05-17 10:21:08.514 myApp[34122:1117317] Resetting plugins due to page load.
+2015-05-17 10:21:08.861 myApp[34122:1117317] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/09ADB9EE-69C0-4081-9659-FB86277813CB/myApp.app/www/index.html#/tab/account
+2015-05-17 10:22:22.538 myApp[34316:1118182] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 10:22:22.539 myApp[34316:1118182] Multi-tasking -> Device: YES, App: YES
+2015-05-17 10:22:22.541 myApp[34316:1118182] Unlimited access to network resources
+2015-05-17 10:22:22.859 myApp[34316:1118182] [CDVTimer][keyboard] 0.081003ms
+2015-05-17 10:22:22.859 myApp[34316:1118182] [CDVTimer][TotalPluginStartup] 0.313044ms
+2015-05-17 10:22:22.973 myApp[34316:1118182] Resetting plugins due to page load.
+2015-05-17 10:22:23.247 myApp[34316:1118182] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/39867085-C333-4D6D-B211-640FC527305A/myApp.app/www/index.html#/tab/account
+2015-05-17 10:23:02.097 myApp[34509:1118898] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 10:23:02.098 myApp[34509:1118898] Multi-tasking -> Device: YES, App: YES
+2015-05-17 10:23:02.100 myApp[34509:1118898] Unlimited access to network resources
+2015-05-17 10:23:02.422 myApp[34509:1118898] [CDVTimer][keyboard] 0.074029ms
+2015-05-17 10:23:02.422 myApp[34509:1118898] [CDVTimer][TotalPluginStartup] 0.294983ms
+2015-05-17 10:23:02.539 myApp[34509:1118898] Resetting plugins due to page load.
+2015-05-17 10:23:02.898 myApp[34509:1118898] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/7D105011-EB5E-45E6-B80C-070B7D292171/myApp.app/www/index.html#/tab/account
+2015-05-17 10:23:43.695 myApp[34702:1119571] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 10:23:43.696 myApp[34702:1119571] Multi-tasking -> Device: YES, App: YES
+2015-05-17 10:23:43.698 myApp[34702:1119571] Unlimited access to network resources
+2015-05-17 10:23:44.012 myApp[34702:1119571] [CDVTimer][keyboard] 0.075042ms
+2015-05-17 10:23:44.013 myApp[34702:1119571] [CDVTimer][TotalPluginStartup] 0.275970ms
+2015-05-17 10:23:44.128 myApp[34702:1119571] Resetting plugins due to page load.
+2015-05-17 10:23:44.406 myApp[34702:1119571] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/2F1C0F81-C9F7-4019-8E4C-D0694CB9B144/myApp.app/www/index.html#/tab/account
+2015-05-17 10:25:44.868 myApp[34895:1120617] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 10:25:44.872 myApp[34895:1120617] Multi-tasking -> Device: YES, App: YES
+2015-05-17 10:25:44.874 myApp[34895:1120617] Unlimited access to network resources
+2015-05-17 10:25:45.183 myApp[34895:1120617] [CDVTimer][keyboard] 0.327051ms
+2015-05-17 10:25:45.183 myApp[34895:1120617] [CDVTimer][TotalPluginStartup] 0.530958ms
+2015-05-17 10:25:45.297 myApp[34895:1120617] Resetting plugins due to page load.
+2015-05-17 10:25:45.649 myApp[34895:1120617] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/EEF5BEFE-24C9-4F03-8294-C4995F24344D/myApp.app/www/index.html#/tab/account
+2015-05-17 10:26:23.248 myApp[35088:1121333] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 10:26:23.249 myApp[35088:1121333] Multi-tasking -> Device: YES, App: YES
+2015-05-17 10:26:23.251 myApp[35088:1121333] Unlimited access to network resources
+2015-05-17 10:26:23.585 myApp[35088:1121333] [CDVTimer][keyboard] 0.105977ms
+2015-05-17 10:26:23.585 myApp[35088:1121333] [CDVTimer][TotalPluginStartup] 0.418961ms
+2015-05-17 10:26:23.708 myApp[35088:1121333] Resetting plugins due to page load.
+2015-05-17 10:26:24.051 myApp[35088:1121333] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/95D020A0-4905-4168-8FFD-9CE83225D6EB/myApp.app/www/index.html#/tab/account
+2015-05-17 10:37:51.613 myApp[35287:1123953] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 10:37:51.614 myApp[35287:1123953] Multi-tasking -> Device: YES, App: YES
+2015-05-17 10:37:51.616 myApp[35287:1123953] Unlimited access to network resources
+2015-05-17 10:37:51.935 myApp[35287:1123953] [CDVTimer][keyboard] 0.072002ms
+2015-05-17 10:37:51.935 myApp[35287:1123953] [CDVTimer][TotalPluginStartup] 0.291049ms
+2015-05-17 10:37:52.052 myApp[35287:1123953] Resetting plugins due to page load.
+2015-05-17 10:37:52.412 myApp[35287:1123953] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/17F08818-BFF3-417B-B249-563CC2E4CDB7/myApp.app/www/index.html#/tab/account
+2015-05-17 10:38:22.671 myApp[35480:1124620] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 10:38:22.672 myApp[35480:1124620] Multi-tasking -> Device: YES, App: YES
+2015-05-17 10:38:22.674 myApp[35480:1124620] Unlimited access to network resources
+2015-05-17 10:38:23.015 myApp[35480:1124620] [CDVTimer][keyboard] 0.073016ms
+2015-05-17 10:38:23.015 myApp[35480:1124620] [CDVTimer][TotalPluginStartup] 0.284016ms
+2015-05-17 10:38:23.128 myApp[35480:1124620] Resetting plugins due to page load.
+2015-05-17 10:38:23.496 myApp[35480:1124620] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/6A93ED4D-80B9-4045-A764-C7BDF1A5A3D3/myApp.app/www/index.html#/tab/account
+2015-05-17 10:44:39.481 myApp[35821:1126845] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 10:44:39.483 myApp[35821:1126845] Multi-tasking -> Device: YES, App: YES
+2015-05-17 10:44:39.486 myApp[35821:1126845] Unlimited access to network resources
+2015-05-17 10:44:39.747 myApp[35821:1126845] [CDVTimer][keyboard] 0.093997ms
+2015-05-17 10:44:39.747 myApp[35821:1126845] [CDVTimer][TotalPluginStartup] 0.364959ms
+2015-05-17 10:44:39.842 myApp[35821:1126845] Resetting plugins due to page load.
+2015-05-17 10:44:40.141 myApp[35821:1126845] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/D3BFE304-1E1D-4201-BE02-2EBBDC0B2F7F/myApp.app/www/index.html#/tab/account
+2015-05-17 10:48:03.575 myApp[36174:1128999] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 10:48:03.577 myApp[36174:1128999] Multi-tasking -> Device: YES, App: YES
+2015-05-17 10:48:03.579 myApp[36174:1128999] Unlimited access to network resources
+2015-05-17 10:48:03.846 myApp[36174:1128999] [CDVTimer][keyboard] 0.065029ms
+2015-05-17 10:48:03.846 myApp[36174:1128999] [CDVTimer][TotalPluginStartup] 0.275016ms
+2015-05-17 10:48:03.958 myApp[36174:1128999] Resetting plugins due to page load.
+2015-05-17 10:48:04.275 myApp[36174:1128999] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/617D13B3-8AB7-4ABA-B189-0F3D6E0D4B5D/myApp.app/www/index.html#/tab/account
+2015-05-17 10:49:41.737 myApp[36368:1130084] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 10:49:41.740 myApp[36368:1130084] Multi-tasking -> Device: YES, App: YES
+2015-05-17 10:49:41.743 myApp[36368:1130084] Unlimited access to network resources
+2015-05-17 10:49:42.077 myApp[36368:1130084] [CDVTimer][keyboard] 0.073016ms
+2015-05-17 10:49:42.077 myApp[36368:1130084] [CDVTimer][TotalPluginStartup] 0.293016ms
+2015-05-17 10:49:42.194 myApp[36368:1130084] Resetting plugins due to page load.
+2015-05-17 10:49:42.562 myApp[36368:1130084] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/0B76DD25-79CD-446A-B0C5-19487902BB1A/myApp.app/www/index.html#/tab/account
+2015-05-17 10:51:42.026 myApp[36562:1131041] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 10:51:42.028 myApp[36562:1131041] Multi-tasking -> Device: YES, App: YES
+2015-05-17 10:51:42.030 myApp[36562:1131041] Unlimited access to network resources
+2015-05-17 10:51:42.394 myApp[36562:1131041] [CDVTimer][keyboard] 0.070989ms
+2015-05-17 10:51:42.394 myApp[36562:1131041] [CDVTimer][TotalPluginStartup] 0.288010ms
+2015-05-17 10:51:42.543 myApp[36562:1131041] Resetting plugins due to page load.
+2015-05-17 10:51:42.824 myApp[36562:1131041] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/E9E55B40-9285-41B3-9967-3EED2860037B/myApp.app/www/index.html#/tab/account
+2015-05-17 11:38:06.384 myApp[36562:1148655] Terminating since there is no system app.
+2015-05-17 11:38:59.946 myApp[37124:1150018] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-17 11:38:59.947 myApp[37124:1150018] Multi-tasking -> Device: YES, App: YES
+2015-05-17 11:38:59.949 myApp[37124:1150018] Unlimited access to network resources
+2015-05-17 11:39:00.198 myApp[37124:1150018] [CDVTimer][keyboard] 0.066996ms
+2015-05-17 11:39:00.199 myApp[37124:1150018] [CDVTimer][TotalPluginStartup] 0.265002ms
+2015-05-17 11:39:00.326 myApp[37124:1150018] Resetting plugins due to page load.
+2015-05-17 11:39:00.574 myApp[37124:1150018] Finished load of: file:///Users/Sanskriti/Library/Developer/CoreSimulator/Devices/3AC1C334-3F53-4061-BFFA-58EA677FA3DF/data/Containers/Bundle/Application/7194535A-E02E-4309-83A5-D8B5507B16FB/myApp.app/www/index.html#/tab/account
+2015-05-17 11:39:05.775 myApp[37124:1150092] Terminating since there is no system app.
