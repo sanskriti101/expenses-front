@@ -14,18 +14,19 @@
   -->
 
 
-<ion-content style="padding-top:10px" ng-controller="AccountCtrl">
+<ion-content ng-controller="AccountCtrl">
 
   
 
     <img ng-show="imgURI !== undefined" ng-src="{{imgURI}}">
-    <img ng-show="imgURI === undefined" ng-src="">
+    <img ng-show="imgURI === undefined" ng-src="http://placehold.it/600x800">
     
 </ion-content>
 <ion-footer-bar class="bar-stable">
-
-  <button class="button button-clear icon ion-ios-circle-filled text-center">
+<div class="button-bar">
+  <button class="button button-large button-clear button-positive text-center" ng-click="takePicture()">Capture
 </button>
+</div>
   
 </ion-footer-bar>
 

@@ -92,7 +92,7 @@ angular.module('starter.controllers', [])
             allowEdit : true,
             encodingType: Camera.EncodingType.JPEG,
             targetWidth: 600,
-            targetHeight: 600,
+            targetHeight: 800,
             //picturefill();
             popoverOptions: CameraPopoverOptions,
             saveToPhotoAlbum: false
