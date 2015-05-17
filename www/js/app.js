@@ -48,7 +48,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services', '
     }
   })
   
-  .state('tab.dash-details', {
+  .state('tab.dash-detail', {
     url: '/dash/:expenseId?image&vendor',
     views: {
       'tab-dash': {
@@ -68,7 +68,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services', '
       }
     })
     .state('tab.chat-detail', {
-      url: '/chats/:chatId',
+      url: '/chats/:expenseId?image&vendor',
       views: {
         'tab-chats': {
           templateUrl: 'templates/chat-detail.html',

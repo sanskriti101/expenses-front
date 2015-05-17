@@ -4,18 +4,16 @@ angular.module('starter.controllers', [])
   $http.get("http://52.4.68.230:1337/expense/find")
     .success(function(response) {
       $scope.myExpenses = response;
-      console.log(response);
   });
     
    $scope.showExpenseImage = function(id, image, vendor) {
-    $state.go('tab.dash-details', {expenseId: id, image: image, vendor: vendor})
+    $state.go('tab.dash-detail', {expenseId: id, image: image, vendor: vendor})
    }
 })
 
 .controller('DashDetailCtrl', function($scope, $stateParams) {
     var vendorNameData = $stateParams.vendor,
         imageData = $stateParams.image;
-    console.log(vendorNameData, imageData);
     $scope.myExpenses = [{
         image: imageData,
         vendorName: vendorNameData
@@ -23,11 +21,14 @@ angular.module('starter.controllers', [])
     console.log($scope.myExpenses);
 })
 
-.controller('ChatsCtrl', function($scope, $http) {
+.controller('ChatsCtrl', function($scope, $http, $state) {
     $http.get("http://52.4.68.230:1337/expense/find?where={%22approved%22:%22pending%22}")
     .success(function(response) {
       $scope.expensesToBeApproved = response;
   });
+    $scope.showExpenseImage = function(id, image, vendor) {
+    $state.go('tab.chat-detail', {expenseId: id, image: image, vendor: vendor})
+   }
   /**
   $scope.approve = function(chat) {
   	Chats.approve(chat);
@@ -36,7 +37,13 @@ angular.module('starter.controllers', [])
 })
 
 .controller('ChatDetailCtrl', function($scope, $stateParams, Chats) {
-  $scope.chat = Chats.get($stateParams.chatId);
+  var vendorNameData = $stateParams.vendor,
+        imageData = $stateParams.image;
+    $scope.myExpenses = [{
+        image: imageData,
+        vendorName: vendorNameData
+    }]
+    console.log($scope.myExpenses);
 })
 
 .controller('AccountCtrl1', function($scope) {
